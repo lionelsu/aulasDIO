@@ -13,3 +13,11 @@ function substituiPares(array1) {
 
 let arr = [1, 3, 4, 6, 80, 33, 23, 90];
 console.log(substituiPares(arr));
+
+
+const meuObjeto = {
+    chave: valor,
+   }
+   
+   console.log(meuObjeto.chave); 
+   console.log(meuObjeto[chave]);
