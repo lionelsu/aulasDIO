@@ -21,3 +21,5 @@ const meuObjeto = {
    
    console.log(meuObjeto.chave); 
    console.log(meuObjeto[chave]);
+
+   
